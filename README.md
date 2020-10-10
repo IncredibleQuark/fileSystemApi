@@ -15,3 +15,5 @@ You can list files or folders in a directory with 'Open Directory' button.
 
 
 Chrome will ask you to grant permissions for saving and listing directory content.
+
+You can view it here: [https://incrediblequark.github.io/fileSystemApi/](https://incrediblequark.github.io/fileSystemApi/)
